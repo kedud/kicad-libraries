@@ -22,4 +22,9 @@
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 90))
   )
+  (model ${KIPRJMOD}/rm4-libraries/packages3d/RK09L122002M.3dshapes/RK09L12-L15H.wrl
+    (at (xyz 0.192913 0 0.25591))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
